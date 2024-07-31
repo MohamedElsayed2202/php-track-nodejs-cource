@@ -1,0 +1,29 @@
+user authentication => authentication middleware
+cors middleware
+puplish for our project.
+
+jwt => tokens 
+encoded text => encode send for front
+
+fornt => token again to back 
+
+token is encoded from my side 
+
+check if not expired 
+
+in case of toke expired => send to front expired token for login 
+
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImIzNjlmNTg4LTg1NjAtNDgwMi1iYzY1LTllYzU5ZGMzOWUxNSIsImVtYWlsIjoiZW1haWxALmNvbSIsImlhdCI6MTcyMjQ0MzA4Nn0.SwbMoSx8nJmBEi7_-c7Lo2bMDBe-LLqSXDlkKHH0tKs
+
+social media app 
+
+user sign in
+
+post => created by : id 
+
+authorized 
+
+create post /id param => id check in users db => do => throw error 
+
+create post id => token => data => req.use 
+
